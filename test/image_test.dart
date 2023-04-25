@@ -8,7 +8,7 @@ import 'dart:io';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:qr_flutter/qr_flutter.dart';
+import 'package:qr_flutter_v2/qr_flutter_v2.dart';
 
 void main() {
   testWidgets('QrImageView generates correct image', (tester) async {

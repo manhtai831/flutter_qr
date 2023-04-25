@@ -13,7 +13,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  qr_flutter:
+  qr_flutter_v2:
     path: ../
 
 dev_dependencies:

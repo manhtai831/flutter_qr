@@ -28,14 +28,14 @@ You should add the following to your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  qr_flutter: ^4.0.0
+  qr_flutter_v2: ^4.0.0
 ```
 
 **Note**: If you're using the Flutter `master` channel, if you encounter build issues, or want to try the latest and greatest then you should use the `master` branch and not a specific release version. To do so, use the following configuration in your `pubspec.yaml`:
  
 ```yaml
 dependencies:
-  qr_flutter:
+  qr_flutter_v2:
     git:
       url: git://github.com/lukef/qr.flutter.git
 ```
@@ -49,7 +49,7 @@ your IDE.
 To start, import the dependency in your code:
 
 ```dart
-import 'package:qr_flutter/qr_flutter.dart';
+import 'package:qr_flutter_v2/qr_flutter_v2.dart';
 ```
 
 Next, to render a basic QR code you can use the following code (or something like it):

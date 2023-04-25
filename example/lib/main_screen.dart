@@ -9,7 +9,7 @@ import 'dart:ui' as ui;
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:qr_flutter/qr_flutter.dart';
+import 'package:qr_flutter_v2/qr_flutter_v2.dart';
 
 /// This is the screen that you'll see when the app starts
 class MainScreen extends StatefulWidget {
